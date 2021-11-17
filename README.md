@@ -1,2 +1,2 @@
-# weekly-code-review
+# javascript-algorithms
 Created with CodeSandbox
